@@ -4,3 +4,7 @@ import bs4
 
 #ajout de commentaires
 
+import mailbox
+
+
+
